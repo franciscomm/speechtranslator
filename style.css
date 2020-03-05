@@ -1,0 +1,29 @@
+body {
+        background: LIGHTSTEELBLUE;
+        font-size: 20px;
+      }
+
+    .custom-range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+    background: rgb(148, 180, 211);
+    cursor: pointer;
+    }
+
+    .badge{
+      background-color: black;
+    }
+
+    .label{
+      width: 5px;
+    } 
+    .speech {
+      font-weight: bold;
+      margin-top: 0px;
+      margin-bottom: 10px;
+      color:slategray;
+
+    }
